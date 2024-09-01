@@ -1,0 +1,17 @@
+# ninja log v5
+8	260	1708816058264281673	CMakeFiles/openmpi_test.dir/cartesian_shift_test.cpp.o	1b60d2334b2aa3d2
+6	76	1705639918008806601	CMakeFiles/openmpi_test.dir/broadcast_algo.cpp.o	23c6adf657089ae9
+14	452	1706591810121298886	CMakeFiles/openmpi_test.dir/deadlock_test.cpp.o	e1fa4a7c76148045
+3	679	1705445197127958305	CMakeFiles/openmpi_test.dir/mpicollective_test.cpp.o	cab95b20f0cad23d
+5	308	1707029954538746242	CMakeFiles/openmpi_test.dir/assign1_test.cpp.o	7f969921e8b3ef97
+0	50	1705345960103055714	CMakeFiles/openmpi_test.dir/openmpi_test.cpp.o	a3ecbe189bd6f6dd
+9	390	1709133322788975275	CMakeFiles/openmpi_test.dir/midterm_sample.cpp.o	65addec384bdf179
+7	359	1709418211414992911	CMakeFiles/openmpi_test.dir/main.cpp.o	723e0d2b255e3c42
+2	852	1725149698431039032	build.ninja	fcd385d5aeaa2798
+6	306	1707029954536555120	CMakeFiles/openmpi_test.dir/assign1_partiii.cpp.o	7a551f33dfb95a1c
+4	204	1708816985695751644	CMakeFiles/openmpi_test.dir/matrix_io_test.cpp.o	7603d446fce2bd19
+5	332	1709417829706337778	CMakeFiles/openmpi_test.dir/a2_matrix_sum.cpp.o	95828805046d4a3b
+4	776	1705443994405851530	CMakeFiles/openmpi_test.dir/trapezoidal_rule_test.cpp.o	a12e31510969e0b0
+7	221	1707294691030381517	CMakeFiles/openmpi_test.dir/datatype_test.cpp.o	537a6cb1f6f3b140
+359	515	1709418211570664131	openmpi_test	73551b2c76410198
+4	260	1709270639648935723	CMakeFiles/openmpi_test.dir/a2_sorting_parallel.cpp.o	3996f60ae1110a30

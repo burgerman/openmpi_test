@@ -1,0 +1,3 @@
+/Users/wilfried/CLionProjects/openmpi_test/cmake-build-debug/CMakeFiles/openmpi_test.dir
+/Users/wilfried/CLionProjects/openmpi_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wilfried/CLionProjects/openmpi_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
